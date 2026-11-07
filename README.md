@@ -6,7 +6,7 @@ A responsive, single-page concept website for a Yemeni honey brand. Designed in 
 
 
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 
 ## Sections
