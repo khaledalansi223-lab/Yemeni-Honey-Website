@@ -2,14 +2,6 @@
 
 A responsive, single-page concept website for a Yemeni honey brand. Designed in Figma and built with plain HTML, CSS and JavaScript.
 
-**Live demo:** https://YOUR-USERNAME.github.io/Yemeni-Honey-Website/
-
-
-
-![Screenshot](screenshot.png)
-
-
-
 ## Sections
 - Home: full-screen hero with a slow zoom effect and a flying bee.
 - Products: five honey varieties in a card grid.
