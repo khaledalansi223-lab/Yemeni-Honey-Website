@@ -4,6 +4,11 @@ A responsive, single-page concept website for a Yemeni honey brand. Designed in 
 
 **Live demo**: https://khaledalansi223-lab.github.io/Yemeni-Honey-Website/
 
+
+
+![Screenshot](screenshot.png)
+
+
 ## Sections
 - Home: full-screen hero with a slow zoom effect and a flying bee.
 - Products: five honey varieties in a card grid.
